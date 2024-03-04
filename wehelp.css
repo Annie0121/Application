@@ -1,0 +1,54 @@
+.headline{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    
+    
+    
+}
+.question{
+    display: block;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(116, 80, 2);
+    margin-right: 100px;  
+    margin-left: 100px;
+    margin-top: 25px;
+    
+   
+
+    
+}
+.answer{
+    margin-right: 100px;  
+    margin-left: 100px;
+    font-size: 26px;
+    margin-bottom: 40px;
+    margin-top: 25px;
+    line-height: 1.5;
+    
+    
+}
+.answer2{
+    margin-right: 100px;  
+    margin-left: 100px;
+    font-size: 26px;
+    margin-top: 20px;
+    line-height: 1.5;
+    font-weight: bold;
+
+ 
+}
+
+.answerlist{
+    margin-right: 100px;  
+    margin-left: 100px;
+    font-size: 26px;
+   
+    line-height: 1.5;
+}
+
+
+
+
+
